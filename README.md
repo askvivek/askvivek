@@ -4,7 +4,6 @@
 - 📫 reach me 
       email : vivekmanoharan1990@gmail.com
       phone : 919843934396
-- 
 
 <!---
 askvivek/askvivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
