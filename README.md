@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Manoharan
 - 👀 I’m interested in research and development
-- 🌱 I’m currently AI
+- 🌱 I’m currently AI, Blockchain, ML
 - 📫 reach me 
       email : vivekmanoharan1990@gmail.com
       phone : 919843934396
